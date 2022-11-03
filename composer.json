@@ -1,0 +1,15 @@
+{
+    "name": "gsttvlima/oop-php",
+    "autoload": {
+        "psr-4": {
+            "Market\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gsttvlima",
+            "email": "whoisgustavolima@gmail.com"
+        }
+    ],
+    "require": {}
+}
