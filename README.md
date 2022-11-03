@@ -1,4 +1,4 @@
-# Oriented-Object Programming PHP
+# Object-Oriented Programming PHP
 
 ## 👨🏻‍💻 Techs
 
